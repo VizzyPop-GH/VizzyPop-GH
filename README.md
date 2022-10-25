@@ -1,16 +1,14 @@
-### Hi there 👋
+### hello yes its me
 
-<!--
-**VizzyPop-GH/VizzyPop-GH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+real iuse many langyuagessad (real)
+my statetr
+are
 
-Here are some ideas to get you started:
+[![mystats](https://github-readme-stats.vercel.app/api?username=VizzyPop-GH)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+my top languages are
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VizzyPop-GH&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+adjflyhsdlxujsdfjhnsdghjf please help me i cant stop coding hashdhasdasd
+
